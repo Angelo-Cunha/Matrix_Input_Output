@@ -1,2 +1,2 @@
-# Matrix_Input_Output
-Construir Matriz Insumo-Produto pelos dados do IBGE
+# Matrix_Insumo_Produto
+Construir Matriz Insumo-Produto a partir do Sistema de Contas Nacionais do IBGE
